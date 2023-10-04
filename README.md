@@ -28,3 +28,5 @@ Minishell is your chance to dive into the rich history of command-line interface
 **In Conclusion 📜**
 
 Minishell is your opportunity to create a functional shell that mimics the behavior of popular Unix shells like bash. You'll gain insights into process management, file manipulation, and user interaction. By the end of this project, you'll have a miniature bash-like shell in your toolkit. Happy coding! 👨‍💻🌟🐚
+
+I collaborated with @djidji02 on this project.
