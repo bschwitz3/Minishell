@@ -12,11 +12,17 @@ Minishell is your chance to dive into the rich history of command-line interface
 **Key Features 🛠️**
 
 ∙ Display a prompt for user commands. 💬
+
 ∙ Implement command history for easy recall. 🕰️
+
 ∙ Execute commands by searching for the right executable. 🚀
+
 ∙ Handle redirections for input and output. 🔄
+
 ∙ Enable piped commands for data flow between processes. 🌊
+
 ∙ Support environment variables and variable expansion. 💼
+
 ∙ Implement built-in commands such as cd, echo, pwd, and more. 🛠️
 
 **In Conclusion 📜**
